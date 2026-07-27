@@ -1,0 +1,6 @@
+{
+  "name": "Hidayat - AI Career & Education Guidance Platform",
+  "description": "AI-powered career discovery, university finder, scholarship matcher, counselors, ATS resume builder, and interview coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

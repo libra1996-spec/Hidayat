@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-navy-primary: #0F4C81;
+    --color-navy-dark: #0A365C;
+    --color-emerald-accent: #2ECC71;
+    --color-emerald-dark: #1B7E45;
+    --color-amber-cta: #F39C12;
+    --color-amber-dark: #D68910;
+    --color-slate-bg: #F8FAFC;
+  }
+}
+
+.bg-navy-primary { background-color: #0F4C81; }
+.text-navy-primary { color: #0F4C81; }
+.border-navy-primary { border-color: #0F4C81; }
+
+.bg-emerald-accent { background-color: #2ECC71; }
+.text-emerald-accent { color: #2ECC71; }
+.text-emerald-dark { color: #1B7E45; }
+.border-emerald-accent { border-color: #2ECC71; }
+
+.bg-amber-cta { background-color: #F39C12; }
+.text-amber-cta { color: #F39C12; }
+.border-amber-cta { border-color: #F39C12; }
+
+/* Professional Polish Custom Animations & Scrollbars */
+@keyframes spinSlow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: spinSlow 20s linear infinite;
+}

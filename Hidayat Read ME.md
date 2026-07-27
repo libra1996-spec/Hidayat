@@ -585,6 +585,7 @@ Running with Docker (Optional)
 
 
 
+
 Build the Docker image:
 
 
@@ -670,6 +671,17 @@ This process will start the Hidayat application locally and enable all configure
 
 
 \---
+Screen Shot
+<img width="1766" height="832" alt="Screenshot 2026-07-27 215303" src="https://github.com/user-attachments/assets/51eea301-445a-4230-8e9d-4a9058b14246" />
+<img width="1446" height="757" alt="Screenshot 2026-07-27 215344" src="https://github.com/user-attachments/assets/bd2b5884-d2f4-4cc3-aa72-72a77424202d" />
+<img width="1885" height="860" alt="Screenshot 2026-07-27 215138" src="https://github.com/user-attachments/assets/fb5acab2-3e35-42c3-8b33-3d84095a14ca" />
+<img width="1893" height="848" alt="Screenshot 2026-07-27 215206" src="https://github.com/user-attachments/assets/a5589ec8-05af-4158-852b-16257decdb4a" />
+<img width="1645" height="748" alt="Screenshot 2026-07-27 215223" src="https://github.com/user-attachments/assets/7f0f470a-0710-4b06-ac6f-b7ba42087300" />
+
+
+
+
+
 
 
 
